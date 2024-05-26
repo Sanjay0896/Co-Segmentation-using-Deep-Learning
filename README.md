@@ -1,4 +1,4 @@
-Co-Detection in Images using Saliency and Siamese Networks
+Co-Segmentation-using-Deep-Learning 
 Description
 
 This repository contains the implementation of the research paper "Co-Detection in Images using Saliency and Siamese Networks" by Milan Zinzuvadiya, Vatsalkumar Dhameliya, Sanjay Vaghela, Sahil Patki, Nirali Nanavati, and Arnav Bhavsar. The paper addresses the co-detection problem in computer vision, which involves detecting common objects from multiple images using an integrated deep learning model.
